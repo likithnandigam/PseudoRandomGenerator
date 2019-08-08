@@ -1,5 +1,5 @@
 # PseudoRandomGenerator
-VLSI Design Layout of a Pseudo Random Noise Generator
+VLSI Layout Design of a Pseudo Random Noise Generator
 
 A Pseudo Random Noise Generator, as the name says generates an arbitrary noise signal in the form of Binary 0's and 1's. The circuit that I have designed in this project is a 4-bit random noise generator. The layout consists of 60 transistors and 63 nodes. 
 
